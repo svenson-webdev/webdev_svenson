@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: white;
+}
+h1, h2, h3 {
+    color: #f8b400;
+}
+p {
+    font-size: 18px;
+    color: #ccc;
+}
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+.product-card, .about-section {
+    background: #222;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.navbar-brand img {
+    border-radius: 50%;
+}
